@@ -1,0 +1,7 @@
+alias ll='ls -FGlAhp'
+alias cdd='cd ~/Developer'
+alias cds='cd ~/Developer/sandbox'
+alias be='bundle exec'
+alias ber='bundle exec ruby'
+alias pingg='ping google.com'
+alias pingr='route get default | grep gateway | awk {'\''print $2'\''} | xargs ping'
