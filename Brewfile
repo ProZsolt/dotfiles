@@ -1,76 +1,55 @@
-tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/cask-drivers"
-tap "homebrew/cask-fonts"
-tap "homebrew/cask-versions"
-tap "homebrew/core"
-tap "homebrew/services"
-tap "prozsolt/tap"
-
-
 brew "git"
 brew "hub"
-
-brew "openssl"
-brew "gnupg"
-
-brew "automake"
-brew "cmake"
 
 brew "wget"
 brew "nmap"
 brew "tree"
+brew "jq"
 brew "vim"
 
-brew "ruby-build"
-brew "rbenv"
-brew "rbenv-default-gems"
 brew "go"
-brew "python"
 
 cask "firefox"
 cask "google-chrome"
-cask "tor-browser"
 
 cask "transmission"
+brew "yt-dlp"
 cask "vlc"
 
 cask "visual-studio-code"
 cask "textmate"
-cask "arduino"
+cask "claude-code"
+cask "zed"
+cask "ghostty"
 
-cask "cool-retro-term"
+cask "orbstack"
+brew "docker-compose"
+cask "postico"
 
-cask "colloquy"
-cask "skype"
+cask "obsidian"
+
 cask "slack"
-cask "zoomus"
+cask "beeper"
+cask "discord"
 
-cask "fusion-360"
+cask "autodesk-fusion"
 cask "prusaslicer"
-cask "eagle"
 cask "kicad"
 cask "balenaetcher"
+cask "raspberry-pi-imager"
 
-cask "boxer"
-cask "battle-net"
-cask "epic-games"
-cask "gog-galaxy"
 cask "steam"
+cask "gog-galaxy"
+cask "epic-games"
 
 cask "alfred"
-cask "tunnelblick"
-cask "the-unarchiver"
 cask "monitorcontrol"
-cask "wine-stable"
-cask "ukelele"
+cask "logi-options+"
 
-cask "docker"
-cask "virtualbox"
-cask "cyberduck"
-cask "sequel-pro"
-cask "postman"
-cask "wireshark"
+cask "android-file-transfer"
+cask "android-platform-tools"
+
+cask "home-assistant"
 
 
 
