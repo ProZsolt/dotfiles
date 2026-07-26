@@ -1,3 +1,5 @@
+brew "mas"
+
 brew "git"
 brew "hub"
 
@@ -51,7 +53,7 @@ cask "android-platform-tools"
 
 cask "home-assistant"
 
-
+mas "Amphetamine", id: 937984704
 
 
 
